@@ -1,0 +1,20 @@
+#head{
+    text-align:  left ;
+    font-family: serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2,h3{
+    text-align: center;
+    font-family: serif;
+}
+
+p{
+    text-align: left;
+font-family: sans-serif;
+line-height: 25px;
+}
+a{
+    color: #f15640;
+}
